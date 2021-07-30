@@ -499,6 +499,10 @@ As your model trains, you’ll see the measures of loss, precision, and recall a
 
 You’ve now trained your first sentiment analysis machine learning model using natural language processing techniques and neural networks with spaCy! Here are two charts showing the model’s performance across twenty training iterations. The first chart shows how the loss changes over the course of training:
 
+
+
+![image](https://user-images.githubusercontent.com/73459313/127620861-e700bdf9-21ed-4d54-9f50-f2e37c6a1ecd.png)
+
 While the above graph shows loss over time, the below chart plots the precision, recall, and F-score over the same training period:
 
 In these charts, you can see that the loss starts high but drops very quickly over training iterations. The precision, recall, and F-score are pretty stable after the first few training iterations. What could you tinker with to improve these values?
