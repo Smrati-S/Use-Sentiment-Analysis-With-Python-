@@ -505,6 +505,10 @@ You’ve now trained your first sentiment analysis machine learning model using 
 
 While the above graph shows loss over time, the below chart plots the precision, recall, and F-score over the same training period:
 
+
+![image](https://user-images.githubusercontent.com/73459313/127621177-e7795aa0-932c-4b47-aff7-c4f514f5395e.png)
+
+
 In these charts, you can see that the loss starts high but drops very quickly over training iterations. The precision, recall, and F-score are pretty stable after the first few training iterations. What could you tinker with to improve these values?
 
 Conclusion
